@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberStatus</string>
+    <string name="hint">Input Number</string>
+</resources>
+
